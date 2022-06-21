@@ -9,3 +9,5 @@ learnt why express is better than http module, by conducting few tests.
 06/14 - Today learning about route params.
 
 06/16 - Learnt about query params
+
+06/21 - Learnt about middleware and added logger.js file
