@@ -13,3 +13,5 @@ learnt why express is better than http module, by conducting few tests.
 06/21 - Learnt about middleware and added logger.js file
 
 06/23 - learnt more about middleware, npm morgan and authorize
+
+06/28 - Got started with get and post requests in node
