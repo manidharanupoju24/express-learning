@@ -17,3 +17,5 @@ learnt why express is better than http module, by conducting few tests.
 06/28 - Got started with get and post requests in node
 
 06/30 - Learnt post put and delete in express. Make sure to restructure the repo
+
+07/08 - added routes and controllers to restructure and organise the code
