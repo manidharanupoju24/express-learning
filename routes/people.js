@@ -25,5 +25,7 @@ router.route('/').get(getPeople).post(createPerson);
 router.route('/postman').post(createPersonPostman);
 router.route('/:id').put(updatePerson).delete(deletePerson);
 
+// this is manidhar
+
 //section 1 and 2 do the same thing
 module.exports = router
